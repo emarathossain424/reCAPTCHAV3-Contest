@@ -20,15 +20,6 @@ step02: Then go to the "recaptcha_credentials.php" file inside the root folder, 
 You are done & your contact form should work fine.
 
 Coders Documentation:
-
-My project folder structure is like following:
-contact-form/
-├── js/
-│   └── script.js
-├── index.html
-├── addlead.php
-└── recaptcha_credentials.php
-
 *** Ajax form submission and reCAPTCHA Handling in front end has been done in "script.js" file
 *** "index.html" contains the contact form
 *** contact form submission, reCAPTCHA verification from backend and error handling hasbeen done in "addlead.php" file
